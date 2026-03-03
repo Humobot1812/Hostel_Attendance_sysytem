@@ -48,6 +48,9 @@ RFID Scan → ESP8266 → HTTPS POST → Google Apps Script → Google Sheet
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```
 Hostel_Attendance_System/
 │
 ├── ESP8266_Attendance/
@@ -65,8 +68,7 @@ Hostel_Attendance_System/
 │
 ├── README.md
 └── .gitignore
-
----
+```
 ## 🔐 Security Notice
 
 Before uploading:
