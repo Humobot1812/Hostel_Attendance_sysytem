@@ -49,11 +49,22 @@ RFID Scan → ESP8266 → HTTPS POST → Google Apps Script → Google Sheet
 ## 📂 Project Structure
 
 Hostel_Attendance_System/
+│
 ├── ESP8266_Attendance/
+│   └── attendance.ino
+│
 ├── RFID_Tag_Writer/
+│   └── rfid_tag.ino
+│
 ├── Google_App_Script/
+│   └── sheet.gs
+│
 ├── images/
-└── README.md
+│   ├── hardware_setup.jpg
+│   └── google_sheet_output.jpg
+│
+├── README.md
+└── .gitignore
 
 ---
 ## 🔐 Security Notice
