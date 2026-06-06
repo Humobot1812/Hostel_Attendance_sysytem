@@ -62,8 +62,8 @@ Hostel_Attendance_System/
 ├── Google_App_Script/
 │   └── sheet.gs
 │
-├── images/
-│   ├── hardware_setup.jpg
+├── Images/
+│   ├── Hardware_setup.jpeg
 │   └── google_sheet_output.jpg
 │
 ├── README.md
@@ -91,6 +91,10 @@ Entry and Exit timestamps are recorded automatically.
 - Uses Student ID + Gate Number logic
 
 ---
+
+## 🎥 Demo Video
+
+Watch the project demo here: https://youtube.com/playlist?list=PLQcgql__dXrdcgOFiZDvgCmWUzh8-lwnc&si=0kktHStgWSJdtPg9
 
 ## 👨‍💻 Author
 
